@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+lxml
+pandas
+openpyxl
+XlsxWriter
+python-dateutil
+tqdm
+matplotlib
+seaborn
+plotly
+Jinja2
+rich
+Pillow
+typer
